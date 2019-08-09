@@ -1,7 +1,7 @@
 /*
-    8 Puzzle
-    Pontifícia Universidade Católica de Campinas
     Cesar Marrote Manzano
+    8 Puzzle
+    PontifÃ­cia Universidade CatÃ³lica de Campinas
 */
 
 #include <stdio.h>
