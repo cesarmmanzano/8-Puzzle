@@ -1,4 +1,4 @@
-# Puzzle-8
+# 8 Puzzle
 Cesar Marrote Manzano
 <br>
 University: Pontifícia Universidade Católica de Campinas
