@@ -6,3 +6,6 @@ University: Pontifícia Universidade Católica de Campinas
 Second Semester Project
 <br>
 Subject: Algorítmos e Programação de Computadores B
+
+## License
+This project is licensed under the MIT License - see the [MIT](https://choosealicense.com/licenses/mit/) file for details
